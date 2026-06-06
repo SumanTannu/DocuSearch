@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+.env
+.venv/
+venv/
+env/
+data/
+.mongo-data/
+.mongo-log/
+docretr-*.json
+embeddings.json
